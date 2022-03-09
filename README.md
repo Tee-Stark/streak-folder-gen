@@ -18,7 +18,7 @@ You can add it to your PATH variable so that you can run it from any where on yo
 ### Usage
 This tool can be used in 3 ways:
 1. An interactive tool:
-  You can simply start the tool in your terminal using the command `./streak_gen` on UNIX machines or streak_gen on Windows, this will open up the interactive interface, where you enter the name of the folder you want to create, and how many days your challenge runs for. This will then create the Folder and give it the number of subdirectories as the number of days you have specified.
+  You can simply start the tool in your terminal using the command `./streak_gen` on UNIX machines or `streak_gen on Windows`, this will open up the interactive interface, where you enter the name of the folder you want to create, and how many days your challenge runs for. This will then create the Folder and give it the number of subdirectories as the number of days you have specified.
 
 2. A command:
   - It can work as a command that takes in `2 <= x <= 10` arguments. That is it can take in 2 or more arguments(not more than 10 though), where the first argument is the number of days your challenge runs for, and the remaining arguments are the folders to create. E.g:
